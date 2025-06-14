@@ -2,7 +2,7 @@
 
 **Location**: Cemetery of Ash  
 **Fight Type**: Tutorial Boss, Lies  
-**Weapon Used**: Battle Axe  
+**Weapon Used**: Shortsword
 **Armor**: Pants  
 **Summoned?**: Nope
 
@@ -25,4 +25,4 @@ Looked like a statue, turned out to be a boss. Classic Souls. Cool intro — ver
 
 ## 🏆 First Takeaway Boss
 
-Gundyr is the Souls equivalent of being thrown into the deep end with floaties made of concrete. Loved it.
+Gundyr is the Souls equivalent of being thrown into the deep end.
