@@ -2,4 +2,6 @@
 
 | Armor Piece   | Location / Source | Notes |
 |---------------|-------------------|-------|
-| Warrior Pants | Starting Gear     | They're fine. I guess. |
+| Knight Armor | Starting Gear     | It's fine. I guess. Too heavy though. |
+| Knight Shield | Starting Gear     | A shield.     |
+|East-West Shield | Outside Firelink | Pretty plain |
